@@ -1,3 +1,4 @@
 My first file and first commit
 second change and second
 CHANGES HERE
+INSIDE VS CODE
