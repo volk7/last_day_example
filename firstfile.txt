@@ -3,3 +3,4 @@ second change and second
 CHANGES HERE
 INSIDE VS CODE
 just a commit
+ANOTHER CONFLICT
